@@ -1,0 +1,18 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "repulica.greatfortunes.mixin",
+    "compatibilityLevel": "JAVA_17",
+    "mixins": [
+        "MixinEnchantmentHelper",
+        "MixinLivingEntity",
+        "MixinRandomChanceWithLootingLootCondition"
+    ],
+    "client": [
+        "MixinApplyBonusLootFunction",
+        "MixinBlock"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+  }
+}

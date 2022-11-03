@@ -1,9 +1,5 @@
-# Fabric Example Mod
+# Great Fortunes
 
-## Setup
+make fortune and looting work on the luck stat instead of a different thing
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+without other luck sources i think it works just like vanilla but i dont know
